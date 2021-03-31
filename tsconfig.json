@@ -5,6 +5,7 @@
 		"moduleResolution": "node",
 		"sourceMap": true,
 		"outDir": "build",
+		"jsx": "react-jsx",
 	},
 	"exclude": [
 		"node_modules"
